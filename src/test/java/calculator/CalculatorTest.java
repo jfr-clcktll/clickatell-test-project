@@ -1,9 +1,9 @@
-import calculator.Calculator;
-import calculator.DivideByZeroException;
+package calculator;
+
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
 public class CalculatorTest {
-
+    
 }
